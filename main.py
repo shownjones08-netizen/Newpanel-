@@ -63,8 +63,8 @@ from telegram.ext import (
 
 BOT_TOKEN        = os.environ.get("BOT_TOKEN", "PASTE_YOUR_BOT_TOKEN_HERE")
 BOT_USERNAME     = os.environ.get("BOT_USERNAME", "@shownXpannelbot")
-BOT_BRAND_NAME   = os.environ.get("BOT_BRAND_NAME", "QURESHIxOTP")
-OWNER_DISPLAY    = os.environ.get("OWNER_DISPLAY_NAME", "Shown")
+BOT_BRAND_NAME   = os.environ.get("BOT_BRAND_NAME", "✨ 𝑺𝒉𝒐𝒘𝒏 𝑳𝒆𝒈𝒂𝒄𝒚 ✨")
+OWNER_DISPLAY    = os.environ.get("OWNER_DISPLAY_NAME", "˹Sʜᴏᴡɴ ꭙ")
 OWNER_CONTACT    = os.environ.get("OWNER_CONTACT", "@WhoIsShown")
 OWNER_ID         = int(os.environ.get("OWNER_ID", "8984851474"))
 OWNER_USERNAME   = "WhoIsShown"
