@@ -69,7 +69,7 @@ from telegram.ext import (
 #  CONFIG
 # ══════════════════════════════════════════════════════════════
 
-BOT_TOKEN        = os.environ["BOT_TOKEN"]            # hard fail — no fallback
+BOT_TOKEN        = os.environ["8783298629:AAHAJbNnbP1GmvO-oZd8E8NFVXEIjJmyywk"]            # hard fail — no fallback
 BOT_USERNAME     = os.environ.get("BOT_USERNAME", "@shownXpannelbot")
 BOT_BRAND_NAME   = os.environ.get("BOT_BRAND_NAME", "QURESHIxOTP")
 OWNER_DISPLAY    = os.environ.get("OWNER_DISPLAY_NAME", "Shown")
